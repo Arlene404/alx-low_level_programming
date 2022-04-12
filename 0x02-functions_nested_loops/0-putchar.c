@@ -2,7 +2,7 @@
 /**
  * main-main block
  * Description:print -putchar in a new line
-Return: This program returns zero
+Return: This program returns 0
 */
 int main(void)
 {
