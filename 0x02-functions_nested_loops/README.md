@@ -7,3 +7,4 @@ A program that prints the sign of a number
 A function that computes the absolute value of an integer.
 A funtion that prints the last digit of a number.
 A function that prints every minute of the day Jack Bauer, starting from 00:00 23:59
+A function that prints the 9 times table, starting with 0
