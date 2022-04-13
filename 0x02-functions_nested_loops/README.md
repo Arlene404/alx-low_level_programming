@@ -5,3 +5,4 @@ A function that checks for lower case character.
 A program that checks for alphabetic character , Returns 1 if c is a letter lowercase or uppercase
 A program that prints the sign of a number
 A function that computes the absolute value of an integer.
+A funtion that prints the last digit of a number.
